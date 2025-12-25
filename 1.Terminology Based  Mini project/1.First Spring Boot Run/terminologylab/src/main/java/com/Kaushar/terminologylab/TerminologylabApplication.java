@@ -8,6 +8,7 @@ public class TerminologylabApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TerminologylabApplication.class, args);
+        System.out.println("Terminologylab Application Started");
 	}
 
 }
